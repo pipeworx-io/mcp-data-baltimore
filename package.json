@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-data-baltimore",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "DataBaltimore MCP — Baltimore open data (data.baltimorecity.gov, ArcGIS REST API).",
   "type": "module",
   "main": "src/index.ts",
@@ -27,6 +27,6 @@
   },
   "pipeworx": {
     "sourceHash": "v1-7e6694512e35758fd0035d54fddf046afe319ef9367226fba1a4918bd2409046",
-    "sourceCommit": "5b29c2b0c11e1fcd954969a245b474e6e9475116"
+    "sourceCommit": "56d3c46c09bb3078ffdbdbca992a93f406bcd382"
   }
 }
